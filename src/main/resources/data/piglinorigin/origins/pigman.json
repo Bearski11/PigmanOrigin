@@ -4,7 +4,7 @@
       "origins:fire_immunity",
       "piglinorigin:betterhp",
       "piglinorigin:undead",
-      "origins:hunger_over_time",
+      "origins:more_exhaustion",
       "origins:cat_vision"
     ],
 	"icon": "minecraft:golden_axe",
