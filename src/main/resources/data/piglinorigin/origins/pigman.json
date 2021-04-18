@@ -1,0 +1,15 @@
+{
+	"powers": [
+      "origins:water_vulnerability",
+      "origins:fire_immunity",
+      "piglinorigin:betterhp",
+      "piglinorigin:undead",
+      "origins:hunger_over_time",
+      "origins:cat_vision"
+    ],
+	"icon": "minecraft:golden_axe",
+	"order": 1,
+    "impact": 2,
+    "description": "Not to long ago the Pigmen were exiled from the nether by the Piglins and have had to adapt to the new enviroment.",
+    "name": "Pigman"
+}

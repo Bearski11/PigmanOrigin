@@ -1,0 +1,11 @@
+{
+  "type": "origins:launch",
+  "cooldown": 3,
+  "speed": 5.0,
+  "name": "High Jump",
+  "description": "Being in the nether for so long the Pigman are not used to the gravity of the overworld",
+  "key": {
+    "key": "key.jump",
+    "continuous": false
+  }
+}

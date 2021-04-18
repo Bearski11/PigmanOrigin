@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "piglinorigin",
+  "version": "${version}",
+  "name": "PiglinBruteOrigin",
+  "description": "A mod for Technoblade",
+  "authors": [
+    "SirBearski"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/PiglinBruteOrigin/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "piglin.piglinorigin.client.PiglinOriginClient"
+    ],
+    "main": [
+      "piglin.piglinorigin.PiglinOrigin"
+    ]
+  },
+  "mixins": [
+    "PiglinBruteOrigin.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

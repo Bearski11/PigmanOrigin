@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "name": "Tough Skin",
+  "description": "Because of the tough skin these creatures have they have slightly better HP",
+  "modifier": {
+    "name": "Strong health amplifier",
+    "attribute": "minecraft:generic.max_health",
+    "value": 4.0,
+    "operation": "addition"
+  }
+}
